@@ -12,4 +12,6 @@ is_published = False  # boolean
 # python is case sensitive language
 # we can also store the complex values like list and values
 
+#getting_input
+
 
